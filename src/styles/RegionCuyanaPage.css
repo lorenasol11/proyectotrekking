@@ -1,0 +1,24 @@
+.circuitocuyo img {
+    border-radius: 50%;
+}
+
+.circuitoscuyo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.circuitocuyo .info {
+    text-align: center;
+}
+
+.circuitocuyo {
+    padding: 25px;
+}
+
+.circuitocuyo h5{
+    font-size: 20px;
+}
+
+.circuitocuyo h6{
+    font-size: 15px;
+}

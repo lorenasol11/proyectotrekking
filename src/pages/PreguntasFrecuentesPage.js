@@ -1,4 +1,4 @@
-import { prettyDOM } from "@testing-library/react";
+import './../styles/PreguntasFrecuentesPage.css'
 
 const PreguntasFrecuentesPage = (props) => {
     return (

@@ -1,3 +1,6 @@
+import './../styles/RegionCuyanaPage.css'
+
+
 const RegionCuyanaPage = (props) => {
     return (
         <main className="holder">

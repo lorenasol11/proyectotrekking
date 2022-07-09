@@ -1,3 +1,5 @@
+import '../../styles/layout.css';
+
 const Header = (props) => {
     return (
         <div class="holder">

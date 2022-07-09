@@ -1,3 +1,6 @@
+import './../styles/PatagoniaPage.css'
+
+
 const PatagoniaPage = (props) => {
     return (
 

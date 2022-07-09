@@ -1,0 +1,33 @@
+.homeimg {
+    width: 960px;
+}
+
+.nosotros {
+    width: 75%;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+.testimonios {
+    width: 25%;
+}
+
+.columnas {
+    display: flex;
+    justify-content: space-between; 
+    gap: 20px;
+}
+
+.opinion .cita {
+    font-weight: bold;
+    font-size: 20px;
+    display: block;
+    margin: 12px 0;
+}
+
+
+.opinion .autor {
+    font-size: 15px;
+    display: block;
+    margin: 12px 0;
+}

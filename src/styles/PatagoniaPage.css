@@ -1,0 +1,28 @@
+.region p {
+    font-size: 17px;
+}
+
+.circuito .info h5{
+    font-size: 20px;
+}
+
+
+.circuito .info h6{
+    font-size: 15px;
+}
+
+.circuito {
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 16px;
+    margin: 16px 0;
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    text-align: justify;
+}
+
+.circuito img{
+    border-radius: 15px;
+    display: block;
+}
