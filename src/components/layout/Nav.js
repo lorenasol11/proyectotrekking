@@ -16,8 +16,8 @@ const Nav = (props) => {
                     isActive ? "activo" : undefined}>Patagonia</NavLink></li>
                     <li><NavLink to="/cuyo" className={({ isActive }) => 
                     isActive ? "activo" : undefined}>Región Cuyana</NavLink></li>
-                    <li><NavLink to="/norte" className={({ isActive }) => 
-                    isActive ? "activo" : undefined}>Norte</NavLink></li>
+                    <li><NavLink to="/novedades" className={({ isActive }) => 
+                    isActive ? "activo" : undefined}>Novedades</NavLink></li>
                     <li><NavLink to="/preguntas" className={({ isActive }) => 
                     isActive ? "activo" : undefined}>Preguntas Frecuentes</NavLink></li>
                     <li><NavLink to="/contacto" className={({ isActive }) => 

@@ -7,8 +7,7 @@ import Footer from './components/layout/Footer';
 import HomePage from './pages/HomePage';
 import PreguntasFrecuentesPage from './pages/PreguntasFrecuentesPage';
 import ContactosPage from './pages/ContactoPage';
-import ContactoPage from './pages/ContactoPage';
-import NortePage from './pages/NortePage';
+import NovedadesPage from './pages/NovedadesPage';
 import RegionCuyanaPage from './pages/RegionCuyanaPage';
 import PatagoniaPage from './pages/PatagoniaPage';
 
