@@ -11,6 +11,7 @@ const NovedadesPage = (props) => {
             setLoading(true);
             const response = await axios.get('http://localhost:3000/api/novedades');
             setNovedades(response.data);
+            setLoading(false);
         };
         cargarNovedades();
     }, []);
@@ -29,6 +30,6 @@ const NovedadesPage = (props) => {
             }
         </section>
     )
-};
+}
 
 export default NovedadesPage;
