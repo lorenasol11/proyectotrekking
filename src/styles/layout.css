@@ -3,6 +3,7 @@ header {
     padding: 16px 0;
 }
 
+
 header h1 {
     color: #6DDAE9;
     font-size: 40px;
@@ -11,6 +12,7 @@ header h1 {
     position: relative;
     bottom: 15px;
     margin-left: 10px;
+    display: flex;
 }
 footer {
     background-color: #ccc;

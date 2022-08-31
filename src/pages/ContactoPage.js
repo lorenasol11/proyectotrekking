@@ -33,9 +33,10 @@ const ContactoPage = (props) => {
             setFormData(initialForm)
         }
     }
-    //
+    
 
     return (
+        
         <main className="holder contacto">
             <div>
                 <h2>Contacto Rápido</h2>

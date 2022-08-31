@@ -30,6 +30,6 @@ const NovedadesPage = (props) => {
             }
         </section>
     )
-}
+};
 
 export default NovedadesPage;

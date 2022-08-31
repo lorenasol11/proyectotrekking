@@ -8,7 +8,6 @@ const HomePage = (props) => {
         <div className="homeimg">
             <img src="img/inicio.jpg" alt="Trekking"/>
         </div>
-
         <div className="columnas">
             <div className="nosotros">
                 <h2>Nosotros</h2>
